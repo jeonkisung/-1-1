@@ -26,9 +26,9 @@ Partial Class frmMain
         '
         'frmMain
         '
-        Me.AutoScaleDimensions = New System.Drawing.SizeF(7.0!, 12.0!)
+        Me.AutoScaleDimensions = New System.Drawing.SizeF(8.0!, 15.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
-        Me.ClientSize = New System.Drawing.Size(411, 227)
+        Me.ClientSize = New System.Drawing.Size(470, 284)
         Me.Margin = New System.Windows.Forms.Padding(3, 2, 3, 2)
         Me.Name = "frmMain"
         Me.Text = "Visual Basic 2019"
